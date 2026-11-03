@@ -1,0 +1,6 @@
+{
+  "name": "Kith & Kin Donor Management",
+  "description": "Comprehensive donor management, fundraising campaigns, and gift stewardship system for non-profit organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
